@@ -65,7 +65,7 @@ These sources were integrated using relational inner and left joins on composite
 
 #### Step 9: Feature Construction & Mathematical Transformations
 * **Interaction Features:** Created purchase velocity metrics:
-  $$\text{purchases\_per\_day} = \frac{\text{total\_purchases}}{\text{days\_since\_signup} + 1}$$
+  $$\text{purchases\per\day} = \frac{\text{total\purchases}}{\text{days\since\signup} + 1}$$
 * **Mathematical Transforms:** Applied Log transformation (`np.log1p`) and **Yeo-Johnson PowerTransformer** to normalize skewed distributions.
 * **Binarization:** Converted purchase frequency into a binary `frequent_buyer` indicator threshold.
 
