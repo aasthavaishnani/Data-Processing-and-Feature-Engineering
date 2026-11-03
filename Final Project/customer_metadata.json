@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id": "C001",
+        "age": 28,
+        "gender": "Male",
+        "region": "North"
+    },
+    {
+        "customer_id": "C002",
+        "age": 35,
+        "gender": "Female",
+        "region": "South"
+    },
+    {
+        "customer_id": "C003",
+        "age": 42,
+        "gender": "Other",
+        "region": "East"
+    },
+    {
+        "customer_id": "C004",
+        "age": 26,
+        "gender": "Female",
+        "region": "West"
+    },
+    {
+        "customer_id": "C005",
+        "age": 31,
+        "gender": "Male",
+        "region": "North"
+    }
+]
